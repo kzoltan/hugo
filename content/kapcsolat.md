@@ -10,6 +10,9 @@ Contact us
 <title>test2</title>
 <b>test3</b>
 
+{{< highlight go >}} A bunch of code here {{< /highlight >}}
+
+
 <form action="https://getform.io/f/779d3d0c-94a9-4c97-9a6a-17c54fa74cc8" method="POST">
     <input type="text" name="name">
     <input type="email" name="email">
