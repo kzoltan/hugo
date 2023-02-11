@@ -6,6 +6,10 @@ draft: false
 
 Contact us
 
+<h1>test1</h1>
+<title>test2</title>
+<b>test3</b>
+
 <form action="https://getform.io/f/779d3d0c-94a9-4c97-9a6a-17c54fa74cc8" method="POST">
     <input type="text" name="name">
     <input type="email" name="email">
