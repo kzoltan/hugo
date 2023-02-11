@@ -1,6 +1,6 @@
 baseURL = 'https://example.com/'
 languageCode = 'hu'
 defaultContentLanguage = 'hu'
-title = 'Hugo mintaoldal - Avagy tanulom a Hugo-t'
+title = 'learning Hugo'
 theme = 'elate'
 canonifyurls = true
